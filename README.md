@@ -34,7 +34,7 @@ There are 7 options to type in:
 
 Note: 
 
-If you rerun the program to get new data from spotify, the final_test.py file might fail becuase the test case is written based on the cache data. 
+If you rerun the program to get new data from billboard and spotify, the final_test.py file might fail becuase the test case is written based on the cache data. 
 
 
 
