@@ -9,7 +9,7 @@ Requirement:
 Client_id and client_secret are required to run the program. They can be created by registering an application on https://beta.developer.spotify.com/dashboard/login . More information can be found here: https://beta.developer.spotify.com/documentation/general/guides/app-settings/#register-your-app . After the client_id and client_secret are created, insert them into the secret_data.py file. 
 
 2. Plotly: 
-Create an plotly account and follow the steps on https://plot.ly/python/getting-started/ to install the package and set your credentials. 
+Create a plotly account and follow the steps on https://plot.ly/python/getting-started/ to install the package and set your credentials. 
 
 
 Code Structure:
