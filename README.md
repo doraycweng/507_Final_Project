@@ -13,12 +13,14 @@ Create an plotly account and follow the steps on https://plot.ly/python/getting-
 
 
 Code Structure:
+
 There are two classes in the program: Song and Artist. The song class contains two methods, "get_song_info_from_spotify" and "get_audio_feature_from_spotify", which are used to get the song's attributes from spotify. The artist class contains one method, "get_artist_info_from_spotify", which is used to get the artist's attributes from spotify. 
 
 Other major functions include: "get_access_token", which is used to get access token from spotify, "get_hot100_songs_by_scraping", which is to scrape the hot100 songs from billboard website, and four plot functions: "plot_song_rank_vs_pop_top_10", "plot_artist_vs_song_top_10", "plot_artist_vs_followers_top_10" and "plot_features_histogram". 
 
 
 Interaction:
+
 After you run the program, it would prompt you "Please enter "list", number 1 to 4, "help", or "exit":".
 There are 7 options to type in:
 1. "list" : it would show you all the hot100 songs. 
@@ -31,8 +33,9 @@ There are 7 options to type in:
 
 
 Note: 
+
 If you rerun the program to get new data from spotify, the final_test.py file might fail becuase the test case is written based on the cache data. 
 
- 
+
 
 
